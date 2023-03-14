@@ -28,6 +28,7 @@ public class Registration {
 		System.out.println("emp malestatus is "+ malestatus);
 		System.out.println("234");
 		System.out.println("bharathi");
+		System.out.println("muthuu");
 
 		
 		
